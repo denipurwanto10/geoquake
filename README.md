@@ -1,5 +1,5 @@
 # GeoQuake
-
+ 
 GeoQuake adalah aplikasi web untuk menampilkan dan memantau data gempa bumi menggunakan data dari BMKG.
 
 Aplikasi ini menampilkan lokasi gempa pada peta, magnitudo, kedalaman, waktu kejadian, wilayah, potensi tsunami, serta beberapa statistik dari data gempa yang diterima.
